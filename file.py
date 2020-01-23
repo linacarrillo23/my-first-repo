@@ -6,3 +6,5 @@ Created on Thu Jan 23 14:25:50 2020
 @author: lina
 """
 
+def func(a,b):
+    return(a,b)
